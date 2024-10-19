@@ -1,0 +1,61 @@
+*{padding:0px;margin:0px;}
+ul li{list-style: none;}
+a{text-decoration: none;}
+.clear{clear:both;}
+body{font-size: 16px;font-family:Helvetica Neue,Helvetica,PingFang SC,Tahoma,Arial,sans-serif;}
+
+.header,.footer,.main{width:1100px;}
+.main{padding:20px 0px;background:#eff8ff}
+.wrap{width:1100px;margin:0 auto;background-color: #d6bfc5;}
+.logo img,.footer img{width:100%;}
+.header .nav{margin-top:10px;height:40px;line-height:40px;}
+.header .nav ul li{float:left;margin:0px 10px;width:120px}
+.header .nav ul li a{display:block;text-align:center;line-hegiht:40px;color:#765f65}
+.header .nav ul li a:hover,.header .nav ul li a.on{background:#b49aa5}
+
+.slider{width:200px;float:left;background:#e1eaf3;}
+.tx{padding:30px;width:150px;margin:0 auto;text-align:center;}
+.tx img{width:100%;border-radius:1000px;}
+.dh{padding-left:20px;padding-bottom:30px;}
+.dh ul li{padding-left:30px;line-height:40px;background:url('../img/xd.png') left center no-repeat;}
+.dh ul li a{color:#c8b3c1;font-size:22px;}
+.con{width:870px;float:left;margin-left:20px;}
+.con .index{background:#d8bec7}
+.con .index ul li{float:left;margin:10px;width:250px;padding:10px;background:#f9f7f8}
+.con .index ul li img{width:100%;}
+
+.page01{background:#e1eaf3;padding:20px}
+.son01,.son02{background:#eff9ff;width:360px;margin:10px;float:left;padding:15px;height:380px;}
+.son01 h2,.son02 h2{font-size:20px;;text-align: center;line-height: 50px;}
+.son01 img,.son02 img{width:100%;}
+
+.page02{padding:20px;background:#e1eaf3;}
+.lf02{float:left;width:220px;}
+.lr02{float:right;width:580px;}
+.lf02 img,.lr02 img{width:100%;}
+
+.con .page03{background:#d8bec7}
+.con .page03 ul li{float:left;margin:10px;width:250px;padding:10px;background:#f9f7f8}
+.con .page03 ul li img{width:100%;}
+.con .page03 ul li h3{line-height: 46px;text-align: center;color:#d8bec7}
+.con .page03 ul li p{color:#d8bec7;line-height: 28px;}
+.con .page03 ul li .box01{width:50%;float:left;}
+.con .page03 ul li .box01 p{line-height: 24px;}
+.con .page03 ul li .box02{width:45%;float:right;}
+
+.con .page04{background:#d8bec7}
+.con .page04 ul li{float:left;margin:10px;width:270px;}
+.con .page04 ul li img{width:100%;}
+.con .page04 ul li  .r01 p{margin-bottom:15px;}
+
+
+.con .page05{background:#d8bec7}
+.con .page05 ul li{float:left;margin:10px;width:250px;padding:10px;background:#f9f7f8}
+.con .page05 ul li img{width:100%;height:200px;}
+.con .page05 ul li  h3{line-height: 46px;text-align: center;color:#d8bec7}
+.con .page05 ul li p{color:#d8bec7;line-height: 32px;font-size:18px;}
+
+.con .page06{background:#d8bec7}
+.con .page06 ul li{text-align:center;float:left;margin:10px;width:250px;padding:10px;background:#f9f7f8}
+.con .page06 ul li img{width:100%;}
+.con .page06 ul li p{text-align: center;color:#d8bec7;line-height: 32px;}
